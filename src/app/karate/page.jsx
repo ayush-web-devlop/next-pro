@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
        <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-        <Image src="/karate-page.jpg" width={500} height={500}/>
+        <Image src="/karate-page.jpg" width={500} height={500} alt='karate image'/>
         <div>
           <h1 className='font-bold text-2xl'>What is Karate?</h1>
           <p>Karate is a traditional Japanese martial art that focuses on striking   techniques using punches, kicks, knee strikes, and elbow strikes. The term   "Karate" translates to "empty hand," emphasizing the art's reliance on   unarmed combat. With its origins in the Okinawan islands, Karate has   evolved into a globally practiced martial art known for its discipline,   techniques, and philosophical principles.</p>

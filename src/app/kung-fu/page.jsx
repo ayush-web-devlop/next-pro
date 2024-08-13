@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
        <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-        <Image src="/kung-fu-page.jpg" width={500} height={500} />
+        <Image src="/kung-fu-page.jpg" width={500} height={500} alt='kung fu image' />
         <div>
           <h1 className='font-bold text-2xl my-3'>Kung Fu: The Ancient Art of Chinese Martial Arts</h1>
           <p>Kung Fu, also known as Wushu or Chinese Martial Arts, encompasses a broad range of fighting styles and techniques developed over centuries in China. It is renowned for its diverse techniques, philosophical foundations, and integration of physical and mental discipline.</p>

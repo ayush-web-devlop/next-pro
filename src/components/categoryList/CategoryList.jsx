@@ -13,6 +13,7 @@ function CategoryList() {
          src="/karate.jpg"
          width={32}
          height={32}
+         alt='karateimage'
          />
          Karate
         </Link>
@@ -22,6 +23,7 @@ function CategoryList() {
          src="/Tiakwando.jpg"
          width={32}
          height={32}
+         alt='tiakwandoimage'
          />
          Taekwondo
         </Link>
@@ -31,6 +33,7 @@ function CategoryList() {
          src="/muay-thai.webp"
          width={32}
          height={32}
+         alt='muay thai image'
          />
          Muay Thai
         </Link>
@@ -40,6 +43,7 @@ function CategoryList() {
          src="/bjj.jpg"
          width={32}
          height={32}
+         alt='bjjimage'
          />
          BJJ
         </Link>
@@ -49,6 +53,7 @@ function CategoryList() {
          src="/judo.jpg"
          width={32}
          height={32}
+         alt='judoimage'
          />
          Judo
         </Link>
@@ -58,6 +63,7 @@ function CategoryList() {
          src="/kung fu.jpg"
          width={32}
          height={32}
+         alt='kungfu image'
          />
          Kung Fu
         </Link>

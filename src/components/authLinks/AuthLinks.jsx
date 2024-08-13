@@ -31,7 +31,7 @@ const AuthLinks = () => {
         {open && (
           <div className='flex gap-[30px] font-[80px] text-[25px] flex-col justify-center items-center h-[100vh] w-full absolute top-[50px] right-[0px] bg-black z-[1] ' >
             <Link href="/" onClick={() => setOpen(!open)}>Homepage</Link>
-            <Link href="/contact-us" onClick={() => setOpen(!open)}>Contact</Link>
+            {/* <Link href="/contact-us" onClick={() => setOpen(!open)}>Contact</Link>
             <Link href="/" onClick={() => setOpen(!open)}>About</Link>
             {status === "notauthenticated" ? 
             (<Link href="/login" onClick={() => setOpen(!open)}>Login</Link>) : 
@@ -40,7 +40,7 @@ const AuthLinks = () => {
             <Link href="/write" onClick={() => setOpen(!open)}>Write</Link>
             <span className=''>Logout</span>
             </div>
-            )}
+            )} */}
           </div>
         )}
       </div>

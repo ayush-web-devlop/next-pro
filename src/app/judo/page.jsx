@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
        <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-        <Image src="/judo-page.jpg" width={500} height={500} />
+        <Image src="/judo-page.jpg" width={500} height={500} alt='judo image' />
         <div>
           <h1 className='font-bold text-2xl my-3'>Judo: The Way of the Gentle Way</h1>
           <p>Judo, which translates to "The Gentle Way" in Japanese, is a modern martial art and Olympic sport focusing on throws, joint locks, and strangles. Developed from traditional Japanese jiu-jitsu, Judo emphasizes using an opponent’s force and balance against them, making it effective for self-defense and competitive sports.</p>

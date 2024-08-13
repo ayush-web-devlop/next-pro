@@ -7,7 +7,7 @@ const page = () => {
   return (
     <div>
       <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-        <Image src="/taekwondo-page.jpg" width={400} height={400}/>
+        <Image src="/taekwondo-page.jpg" width={400} height={400} alt='taekwondo image'/>
         <div>
           <h1 className='font-bold text-2xl my-3'>Taekwondo: The Art of Hand and Foot</h1>
           <p>Taekwondo is a Korean martial art characterized by its emphasis on high, fast kicks, jumping and spinning kicks, and powerful hand techniques. It combines elements of self-defense, sport, and philosophy, making it a popular choice for practitioners around the world.</p>

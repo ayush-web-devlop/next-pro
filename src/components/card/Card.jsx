@@ -6,7 +6,7 @@ const Card = () => {
   return (
     <div className='mb-[50px] flex items-center gap-[50px] '>
       <div className='flex-1 h-[350px] relative'>   
-       <Image src="/p1.jpeg" alt='' fill />
+       <Image src="/p1.jpeg" alt='p1 image' fill />
       </div>
       <div className='flex-1 flex flex-col gap-[30px] '>
        <div>

@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
       <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-        <Image src="/muay-thai-page.jpg" width={400} height={400}/>
+        <Image src="/muay-thai-page.jpg" width={400} height={400} alt='muay thai image'/>
         <div>
           <h1 className='font-bold text-2xl my-3'>Muay Thai: The Art of Eight Limbs</h1>
           <p>Muay Thai, often referred to as the "Art of Eight Limbs," is a traditional Thai martial art renowned for its striking techniques using fists, elbows, knees, and shins. Known for its effectiveness in both self-defense and competition, Muay Thai has a rich history and is considered Thailand’s national sport.</p>

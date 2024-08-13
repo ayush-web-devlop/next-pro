@@ -6,7 +6,7 @@ const page = () => {
   return (
     <div>
     <div className='mt-12 flex gap-10 md:flex-row flex-col'>
-     <Image src="/bjj-page.jpg" width={500} height={500} />
+     <Image src="/bjj-page.jpg" width={500} height={500}  alt="Bjj IMAGE"/>
      <div>
        <h1 className='font-bold text-2xl my-3'>Brazilian Jiu-Jitsu (BJJ): The Gentle Art of Submission</h1>
        <p>Brazilian Jiu-Jitsu (BJJ) is a martial art and combat sport focused on ground fighting and submission grappling. Known for its emphasis on technique and leverage over brute strength, BJJ teaches practitioners how to control and submit opponents using joint locks and chokeholds. It is renowned for its effectiveness in both self-defense and mixed martial arts (MMA) competition.</p>
