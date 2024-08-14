@@ -16,7 +16,7 @@ const page = () => {
           <p>Origins: Taekwondo’s roots can be traced back to ancient Korean martial arts and military training. It evolved from traditional Korean fighting techniques known as Taekkyeon and Hwa Rang Do, which were practiced during the Three Kingdoms period (57 BC – 668 AD).
          <br />
          <br />
-         Modern Development: The modern form of Taekwondo began to take shape in the mid-20th century.          In 1955, several Korean martial artists, led by General Choi Hong Hi, consolidated various          styles and techniques to create Taekwondo. It was officially named "Taekwondo" in 1957,          meaning "the way of the foot and fist."</p>
+         Modern Development: The modern form of Taekwondo began to take shape in the mid-20th century. In 1955, several Korean martial artists, led by General Choi Hong Hi, consolidated various styles and techniques to create Taekwondo. It was officially named &quot;Taekwondo&quot; in 1957, meaning &quot;the way of the foot and fist&quot;</p>
         </div>
        </div> 
        <div className='mt-7'>
