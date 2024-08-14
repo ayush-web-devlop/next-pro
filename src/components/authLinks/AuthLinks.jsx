@@ -11,14 +11,7 @@ const AuthLinks = () => {
 
   return (
     <div className='flex gap-4 items-center'>
-      {status === "notauthenticated" ? 
-      (<Link href="/login" className='md:block hidden'>Login</Link>) : 
-      (
-      <div className='flex gap-3'>
-      <Link href="/write" className='md:block hidden'>Write</Link>
-      <span className='lg:block hidden'>Logout</span>
-      </div>
-      )}
+     
       <div className='flex flex-col mt-5'>
         <div className='w-[20px] h-[16px] flex flex-col justify-between md:hidden relative'
         onClick={() => setOpen(!open)}
