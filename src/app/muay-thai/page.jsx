@@ -9,7 +9,7 @@ const page = () => {
         <Image src="/muay-thai-page.jpg" width={400} height={400} alt='muay thai image'/>
         <div>
           <h1 className='font-bold text-2xl my-3'>Muay Thai: The Art of Eight Limbs</h1>
-          <p>Muay Thai, often referred to as the "Art of Eight Limbs," is a traditional Thai martial art renowned for its striking techniques using fists, elbows, knees, and shins. Known for its effectiveness in both self-defense and competition, Muay Thai has a rich history and is considered Thailand’s national sport.</p>
+          <p>Muay Thai, often referred to as the &quot;Art of Eight Limbs&quot; is a traditional Thai martial art renowned for its striking techniques using fists, elbows, knees, and shins. Known for its effectiveness in both self-defense and competition, Muay Thai has a rich history and is considered Thailand&apos;s national sport.</p>
 
           <h1 className='font-bold text-2xl mt-5 mb-3'>Historical Background</h1>
           <p>Origins: Muay Thai has ancient roots that can be traced back to the military training of the Siamese army (now Thailand) over 500 years ago. It evolved from older forms of Thai martial arts and was originally practiced as a hand-to-hand combat skill for soldiers.
@@ -35,7 +35,7 @@ const page = () => {
 
        <div className='my-7'>
        <h1 className='font-bold text-2xl'>Culture and Significance</h1>
-       <p className='mt-3'>Muay Thai is not only a sport but also a cultural symbol of Thailand. It is often accompanied by traditional music, known as "Sarama," and pre-fight rituals called "Wai Khru" to pay respect to teachers and the art itself. The sport has a rich tradition of ceremonial dance and rituals that highlight its historical and cultural significance.</p>
+       <p className='mt-3'>Muay Thai is not only a sport but also a cultural symbol of Thailand. It is often accompanied by traditional music, known as &quot;Sarama&quot; and pre-fight rituals called &quot;Wai Khru&quot; to pay respect to teachers and the art itself. The sport has a rich tradition of ceremonial dance and rituals that highlight its historical and cultural significance.</p>
        </div>
 
        <div className='my-7'>
