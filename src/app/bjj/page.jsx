@@ -20,9 +20,9 @@ const page = () => {
      <h1 className='font-bold text-2xl mt-7'>Techniques</h1>
      <p className='mt-3'>BJJ is characterized by its focus on ground techniques and submission holds. Key techniques include:</p>
      <p className='mt-3'><b>1) Guard:</b> A fundamental position where the practitioner uses their legs to control their opponent, either from the bottom or top. Variations include closed guard, open guard, and half guard.</p>
-     <p className='mt-3'><b>2) Mount:</b> A dominant position where the practitioner sits on top of their opponent's torso, allowing for control and the ability to apply various submissions.</p>
+     <p className='mt-3'><b>2) Mount:</b> A dominant position where the practitioner sits on top of their opponent&apos;s torso, allowing for control and the ability to apply various submissions.</p>
      <p className='mt-3'><b>3) Back Control:</b> A position where the practitioner is behind their opponent, often with hooks in, allowing for a range of submission options.</p>
-     <p className='mt-3'><b>4) Submission Holds: </b> Techniques designed to force the opponent to "tap out" or concede, including joint locks (e.g., armbar, kimura) and chokeholds (e.g., rear-naked choke, triangle choke).</p>
+     <p className='mt-3'><b>4) Submission Holds: </b> Techniques designed to force the opponent to  &quot;tap out&quot; or concede, including joint locks (e.g., armbar, kimura) and chokeholds (e.g., rear-naked choke, triangle choke).</p>
     </div>
 
     <div>
@@ -37,7 +37,7 @@ const page = () => {
 
     <div>
      <h1 className='font-bold text-2xl mt-7'>Culture and Significance</h1>
-     <p className='mt-3'>BJJ is known for its strong emphasis on respect, discipline, and the principle of "using technique over strength." The sport fosters a sense of community and camaraderie among practitioners, often referred to as a “family.” The culture emphasizes continual learning and improvement, with a focus on both physical and mental development.</p>
+     <p className='mt-3'>BJJ is known for its strong emphasis on respect, discipline, and the principle of &quot;using technique over strength&quot; The sport fosters a sense of community and camaraderie among practitioners, often referred to as a &quot;family&quot; The culture emphasizes continual learning and improvement, with a focus on both physical and mental development.</p>
     </div>
 
     <Link href="/"><button className='mt-7 bg-green-400 p-3 rounded-lg '>Visit Homepage</button></Link>
