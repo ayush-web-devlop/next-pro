@@ -18,6 +18,7 @@ function Navbar() {
           <Link href="/">Homepage</Link>
           </div>
         </div>
+        <AuthLinks/>
       </div>
     </div>
   )
