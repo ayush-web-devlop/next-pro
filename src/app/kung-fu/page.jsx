@@ -12,7 +12,7 @@ const page = () => {
           <p>Kung Fu, also known as Wushu or Chinese Martial Arts, encompasses a broad range of fighting styles and techniques developed over centuries in China. It is renowned for its diverse techniques, philosophical foundations, and integration of physical and mental discipline.</p>
 
           <h1 className='font-bold text-2xl mt-5 mb-3'>Historical Background</h1>
-          <p>Kung Fu has a rich and extensive history that dates back thousands of years. Its origins can be traced to ancient Chinese warfare and self-defense practices. The term "Kung Fu" originally referred to any skill achieved through hard work and perseverance, but it has come to be synonymous with traditional Chinese martial arts. The art is deeply influenced by Chinese philosophy, including Confucianism, Taoism, and Buddhism, which emphasize balance, harmony, and the development of inner strength.</p>
+          <p>Kung Fu has a rich and extensive history that dates back thousands of years. Its origins can be traced to ancient Chinese warfare and self-defense practices. The term &quot;Kung Fu&quot; originally referred to any skill achieved through hard work and perseverance, but it has come to be synonymous with traditional Chinese martial arts. The art is deeply influenced by Chinese philosophy, including Confucianism, Taoism, and Buddhism, which emphasize balance, harmony, and the development of inner strength.</p>
         </div>
        </div>
 
@@ -20,7 +20,7 @@ const page = () => {
         <h1 className='font-bold text-2xl mt-7'>Techniques</h1>
         <p className='mt-3'>Kung Fu encompasses a wide variety of techniques and styles, each with its own unique approach:</p>
         <p className='mt-3'><b>1) Striking Techniques:</b> Includes punches, kicks, and open-hand strikes. Styles like Wing Chun and Shaolin use specific striking methods to deliver powerful blows.</p>
-        <p className='mt-3'><b>2) Blocking and Parrying:</b> Techniques to deflect or redirect an opponent's attacks. These include various hand and arm movements designed to protect and counter.</p>
+        <p className='mt-3'><b>2) Blocking and Parrying:</b> Techniques to deflect or redirect an opponent&apos;s attacks. These include various hand and arm movements designed to protect and counter.</p>
         <p className='mt-3'><b>3) Joint Locks and Throws:</b> Grappling techniques used to control or subdue an opponent. These are featured in styles like Shuai Jiao and Chin Na.</p>
         <p className='mt-3'><b>4) Forms (Kata): </b> Prearranged sequences of movements that serve as practice routines for learning techniques, developing fluidity, and understanding applications. Forms are integral to many Kung Fu styles.</p>
        </div>
