@@ -9,7 +9,7 @@ const page = () => {
         <Image src="/karate-page.jpg" width={500} height={500} alt='karate image'/>
         <div>
           <h1 className='font-bold text-2xl'>What is Karate?</h1>
-          <p>Karate is a traditional Japanese martial art that focuses on striking   techniques using punches, kicks, knee strikes, and elbow strikes. The term   "Karate" translates to "empty hand," emphasizing the art's reliance on   unarmed combat. With its origins in the Okinawan islands, Karate has   evolved into a globally practiced martial art known for its discipline,   techniques, and philosophical principles.</p>
+          <p>Karate is a traditional Japanese martial art that focuses on striking   techniques using punches, kicks, knee strikes, and elbow strikes. The term   &quot;Karate&quot; translates to &quot;empty hand&quot; emphasizing the art&apos;s reliance on   unarmed combat. With its origins in the Okinawan islands, Karate has   evolved into a globally practiced martial art known for its discipline,   techniques, and philosophical principles.</p>
 
           <h1 className='font-bold text-2xl mt-5'>Historical Background</h1>
           <p>Karate’s roots trace back to ancient China, where it was influenced by Chinese martial arts introduced to Okinawa through trade and cultural exchange. In the early 20th century, Okinawan masters such as Gichin Funakoshi, Chojun Miyagi, and Kenwa Mabuni began to formalize and popularize karate, incorporating elements from indigenous Okinawan fighting styles. Funakoshi, in particular, is credited with introducing karate to mainland Japan and establishing it as a recognized martial art.</p>
