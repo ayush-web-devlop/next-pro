@@ -9,7 +9,7 @@ const page = () => {
         <Image src="/judo-page.jpg" width={500} height={500} alt='judo image' />
         <div>
           <h1 className='font-bold text-2xl my-3'>Judo: The Way of the Gentle Way</h1>
-          <p>Judo, which translates to "The Gentle Way" in Japanese, is a modern martial art and Olympic sport focusing on throws, joint locks, and strangles. Developed from traditional Japanese jiu-jitsu, Judo emphasizes using an opponent’s force and balance against them, making it effective for self-defense and competitive sports.</p>
+          <p>Judo, which translates to &quot;The Gentle Way&quot; in Japanese, is a modern martial art and Olympic sport focusing on throws, joint locks, and strangles. Developed from traditional Japanese jiu-jitsu, Judo emphasizes using an opponent&apos;s force and balance against them, making it effective for self-defense and competitive sports.</p>
 
           <h1 className='font-bold text-2xl mt-5 mb-3'>Historical Background</h1>
           <p>Judo was founded by Jigoro Kano in Japan in 1882. Kano, a skilled practitioner of jiu-jitsu, sought to create a martial art that emphasized skill and technique over brute strength. He distilled the principles of jiu-jitsu into Judo, which focuses on throws, holds, and submissions. Judo quickly gained popularity in Japan and worldwide, eventually becoming an Olympic sport in 1964.</p>
@@ -43,7 +43,7 @@ const page = () => {
 
        <div>
         <h1 className='font-bold text-2xl mt-7'>Culture and Significance</h1>
-        <p className='mt-3'>Judo is not only a physical practice but also a way of life. The principles of Judo, such as "maximum efficiency with minimum effort" and "mutual welfare and benefit," reflect its philosophical and educational aspects. The practice of Judo emphasizes respect, discipline, and the development of character, making it a holistic martial art.</p>
+        <p className='mt-3'>Judo is not only a physical practice but also a way of life. The principles of Judo, such as &quot;maximum efficiency with minimum effort&quot; and &quot;mutual welfare and benefit&quot; reflect its philosophical and educational aspects. The practice of Judo emphasizes respect, discipline, and the development of character, making it a holistic martial art.</p>
        </div>
 
        <Link href="/"><button className='mt-7 bg-green-400 p-3 rounded-lg '>Visit Homepage</button></Link>
